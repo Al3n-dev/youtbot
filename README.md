@@ -8,7 +8,7 @@
 erDiagram
     youtbot ||--o{ ORDER : 
     handlers ||--|{ utils : users
-    CUSTOMER }|..|{ states : 
+    youtbot }|..|{ states : 
 ```
 
 
