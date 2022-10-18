@@ -5,12 +5,11 @@
 
 
 ```mermaid
-erDiagram
-    youtbot ||--o{ ORDER : 
-    handlers ||--|{ utils : users
-    youtbot }|..|{ states : 
+graph TD;
+    youtbot-->handlers-->users;
+    youtbot-->states;
+    youtbot-->utils;
 ```
-
 
 
 
