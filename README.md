@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/3otv.gif" width="600" height="300"/>
+  <img src="https://i.gifer.com/3otv.gif" width="400" height="200"/>
 </div>
 
 
@@ -29,7 +29,7 @@
 
 
 
-#Шаблон бота
+Шаблон бота
 +---pyTube
 |  +---handlers
 |  |   +---Users
