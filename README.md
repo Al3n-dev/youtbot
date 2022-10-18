@@ -1,22 +1,5 @@
-<div align="center">
-  <img src="https://i.gifer.com/3otv.gif" width="400" height="200"/>
-</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![1](https://github.com/Al3n-dev/youtbot/blob/master/ytb_pyt.jpg)
 
 
 
@@ -31,37 +14,22 @@
 
 Шаблон бота
 
-+---pyTube
-
-|  +---handlers
-
-|  |   +---Users
-
-|  |   |   +---__init__.py
-
-|  |   |   +---help.py
-
-|  |   |   +---audio.py
-
-|  |   |   \---start.py
-
-|  |   \---__init__.py
-
-|   +---states
-
-|   |  +---__init__.py
-
-|   |  \---dowload.py
-
-|   +---utils
-
-|   |  +---__init__.py
-
-|   |   \---set_bot_commands.py
-
-|  +---app.py
-
-|  \---loader.py
+> +---pyTube
+>> |  +---handlers
+>>>|  |   +---Users
+>>>>|  |   |   +---__init__.py
+>>>>|  |   |   +---help.py
+>>>>|  |   |   +---audio.py
+>>>>|  |   |   \---start.py
+>>>|  |   \---__init__.py
+>>|   +---states
+>>>|   |  +---__init__.py
+>>>|   |  \---dowload.py
+>>|   +---utils
+>>>|   |  +---__init__.py
+>>>|   |   \---set_bot_commands.py
+>>|  +---app.py
+>>|  \---loader.py
 
 В директории handlers будут храниться все команды, которые можно использовать.
 
